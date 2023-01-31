@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Carlos Araya I'm a frontend developer
 
-## I’m currently learning React and Node
+#### I’m currently learning React and Node 😄
 
 <!--
 **Charlie2208/Charlie2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
