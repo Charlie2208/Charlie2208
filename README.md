@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Carlos Araya I'm a frontend developer
+### Hi there 👋 I'm a frontend developer
 
 #### I’m currently learning React and Node 😄
 
