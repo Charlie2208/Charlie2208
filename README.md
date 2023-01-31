@@ -2,7 +2,7 @@
 
 #### I’m currently learning React and Node 😄
 
-#### look at my [Porttafolio](https://portafolio-carlos-araya.netlify.app/)
+#### look at my [Portafolio](https://portafolio-carlos-araya.netlify.app/) ✨
 
 <!--
 **Charlie2208/Charlie2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
