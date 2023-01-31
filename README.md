@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a frontend developer
   <ul>
-     <li> #### I’m currently learning React and Node 😄 </li>
+     <li>I’m currently learning React and Node 😄</li>
   </ul>
 
 #### look at my [Portafolio](https://portafolio-carlos-araya.netlify.app/) ✨
